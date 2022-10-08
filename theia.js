@@ -162,7 +162,7 @@ var $StickySidebar = jQuery.noConflict();
 $StickySidebar(document).ready(function(){
     "use strict";
 
-    $StickySidebar(".leftSide").theiaStickySidebar({
+    $StickySidebar(".SideLeft").theiaStickySidebar({
         additionalMarginTop: 72,
          additionalMarginBottom: 0,
     });
